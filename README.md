@@ -1,16 +1,2 @@
-# myaa
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Food mobile application
+![Снимок экрана 2024-04-23 113426](https://github.com/Uldana00/food/assets/145310476/f6d6a46c-1043-4a16-bac8-edee502fe56a)
